@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SwitchControl_RF_SPI_SIN/src/main.cpp&apos; to &apos;controller.cpp&apos;" description="Rename resource &apos;main.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main.cpp" name="controller.cpp" stamp="1455994044442" updateReferences="true"/>
+</session>

@@ -1,0 +1,17 @@
+/*
+ * Test1.h
+ *
+ *  Created on: 24-Apr-2016
+ *      Author: sujeet
+ */
+
+#ifndef SRC_TEST1_H_
+#define SRC_TEST1_H_
+
+class Test1 {
+public:
+	Test1();
+	virtual ~Test1();
+};
+
+#endif /* SRC_TEST1_H_ */

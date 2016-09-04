@@ -1,0 +1,7 @@
+16:05:41 **** Clean-only build of configuration Debug for project SwitchControl_RF_SPI_SIN ****
+make clean 
+rm -rf  ./src/controller.o  SwitchControl_RF_SPI_SIN.eep  SwitchControl_RF_SPI_SIN.hex  SwitchControl_RF_SPI_SIN.lss  avrdudedummy  ./src/controller.d  sizedummy  SwitchControl_RF_SPI_SIN.elf
+ 
+
+16:05:42 Build Finished (took 131ms)
+

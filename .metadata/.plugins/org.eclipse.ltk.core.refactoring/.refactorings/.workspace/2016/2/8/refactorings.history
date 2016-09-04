@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Eclipse_ArduinoCoreLib&apos; to &apos;Eclipse_ArduinoCoreLib_105&apos;" description="Rename resource &apos;Eclipse_ArduinoCoreLib&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Eclipse_ArduinoCoreLib" name="Eclipse_ArduinoCoreLib_105" stamp="1455976186071" updateReferences="true"/>
+</session>

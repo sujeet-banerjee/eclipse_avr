@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="24" version="2.0">
+<workbenchAdvisor/>
+<window height="905" width="1264" x="295" y="71">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="184" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="60" y="30"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="88" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.cdt.ui.editor.CEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1453657594444" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RF24Debug.cpp" partName="RF24Debug.cpp" path="/media/sujeet/4A943C00943BED57/dev/workspaces/avr/third-party/RF24Debug/RF24Debug.cpp" title="RF24Debug.cpp" tooltip="RF24Debug/RF24Debug.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RF24Debug/RF24Debug.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1496" selectionTopPixel="2434"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RF24.cpp" partName="RF24.cpp" path="/media/sujeet/4A943C00943BED57/dev/workspaces/avr/third-party/RF24Debug/RF24.cpp" title="RF24.cpp" tooltip="RF24Debug/RF24.cpp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RF24Debug/RF24.cpp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8873" selectionTopPixel="5638"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RF24.h" partName="RF24.h" path="/media/sujeet/4A943C00943BED57/dev/workspaces/avr/third-party/RF24Debug/RF24.h" title="RF24.h" tooltip="RF24Debug/RF24.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RF24Debug/RF24.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="20929" selectionTopPixel="11968"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="nRF24L01.h" partName="nRF24L01.h" path="/media/sujeet/4A943C00943BED57/dev/workspaces/avr/third-party/RF24Debug/nRF24L01.h" title="nRF24L01.h" tooltip="RF24Debug/nRF24L01.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RF24Debug/nRF24L01.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="2949" selectionTopPixel="1686"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="RF24_config.h" partName="RF24_config.h" path="/media/sujeet/4A943C00943BED57/dev/workspaces/avr/third-party/RF24Debug/RF24_config.h" title="RF24_config.h" tooltip="RF24Debug/RF24_config.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RF24Debug/RF24_config.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name=".project" partName=".project" path="/media/sujeet/4A943C00943BED57/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib/.project" title=".project" tooltip="Eclipse_ArduinoCoreLib/.project" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Eclipse_ArduinoCoreLib/.project"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3745" selectionTopPixel="1938"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name=".cproject" partName=".cproject" path="/media/sujeet/4A943C00943BED57/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib/.cproject" title=".cproject" tooltip="Eclipse_ArduinoCoreLib/.cproject" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Eclipse_ArduinoCoreLib/.cproject"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="Arduino.h" partName="Arduino.h" path="/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h" title="Arduino.h" tooltip="Eclipse_ArduinoCoreLib/cores_arduino/Arduino.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Eclipse_ArduinoCoreLib/cores_arduino/Arduino.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="5810" selectionTopPixel="1420"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="pins_arduino.h" partName="pins_arduino.h" path="/usr/share/arduino/hardware/arduino/variants/standard/pins_arduino.h" title="pins_arduino.h" tooltip="Eclipse_ArduinoCoreLib/pins_arduino.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Eclipse_ArduinoCoreLib/pins_arduino.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="1" org.eclipse.cdt.ui.cview.groupincludes="false" org.eclipse.cdt.ui.cview.groupmacros="false" org.eclipse.cdt.ui.editor.CUChildren="true" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>
+<filter element=".*" isEnabled="false"/>
+<filter element="*.class" isEnabled="false"/>
+</filters>
+<expanded>
+<element path="/Eclipse_ArduinoCoreLib"/>
+</expanded>
+<selection>
+<element path="/Eclipse_ArduinoCoreLib/.cproject"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="350" org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="105" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.priorityField="35" org.eclipse.ui.ide.resourceField="105"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.cdt.ui.CPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7495049" ratioLeft="757" ratioRight="253" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.40223464" ratioLeft="504" ratioRight="749" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.6596386" ratioLeft="438" ratioRight="226" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="bottomLeft" ratio="0.5" ratioLeft="332" ratioRight="332" relationship="4" relative="topLeft">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/RF24Debug.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/RF24.cpp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/RF24.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/nRF24L01.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/nRF24L01.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/RF24Debug/RF24_config.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/Eclipse_ArduinoCoreLib/.project"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/Eclipse_ArduinoCoreLib/.cproject"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Eclipse_ArduinoCoreLib/cores_arduino/Arduino.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/Eclipse_ArduinoCoreLib/pins_arduino.h"/>
+</editors>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="1413" y="0"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12321" y="14"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="4590" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12387" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12332" y="0"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="2042" y="14"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="2144" y="0"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="2042" y="14"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12387" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="13725" y="0"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="4590" y="9"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="292" y="0"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="1131" y="23"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="4629" y="0"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="1142" y="12"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="1496" y="0"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12342" y="0"/>
+</item>
+<item historyLabel="nRF24L01.h" index="3">
+<position info="not_deleted" x="1437" y="0"/>
+</item>
+<item historyLabel="RF24Debug.cpp" index="0">
+<position info="not_deleted" x="1496" y="0"/>
+</item>
+<item historyLabel="RF24.h" index="2">
+<position info="not_deleted" x="20929" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12387" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12446" y="97"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="12387" y="9"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="1407" y="0"/>
+</item>
+<item historyLabel="RF24.cpp" index="1">
+<position info="not_deleted" x="9420" y="13"/>
+</item>
+<item historyLabel="nRF24L01.h" index="4">
+<position info="not_deleted" x="2949" y="10"/>
+</item>
+<item historyLabel="RF24_config.h" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="10097" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="9746" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="8837" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="142" y="0"/>
+</item>
+<item historyLabel=".cproject" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="142" y="0"/>
+</item>
+<item historyLabel=".cproject" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Arduino.h" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Arduino.h" index="8">
+<position info="not_deleted" x="5810" y="25"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="3745" y="0"/>
+</item>
+<item historyLabel="pins_arduino.h" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="3745" y="0"/>
+</item>
+<item historyLabel=".cproject" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel=".project" index="6">
+<position info="not_deleted" x="3745" y="0"/>
+</item>
+<item historyLabel=".cproject" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel=".cproject" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="Arduino.h" index="8">
+<position info="not_deleted" x="5810" y="25"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="pins_arduino.h" tooltip="Eclipse_ArduinoCoreLib/pins_arduino.h">
+<persistable path="/Eclipse_ArduinoCoreLib/pins_arduino.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="Arduino.h" tooltip="Eclipse_ArduinoCoreLib/cores_arduino/Arduino.h">
+<persistable path="/Eclipse_ArduinoCoreLib/cores_arduino/Arduino.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name=".cproject" tooltip="Eclipse_ArduinoCoreLib/.cproject">
+<persistable path="/Eclipse_ArduinoCoreLib/.cproject"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name=".project" tooltip="Eclipse_ArduinoCoreLib/.project">
+<persistable path="/Eclipse_ArduinoCoreLib/.project"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RF24_config.h" tooltip="RF24Debug/RF24_config.h">
+<persistable path="/RF24Debug/RF24_config.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="nRF24L01.h" tooltip="RF24Debug/nRF24L01.h">
+<persistable path="/RF24Debug/nRF24L01.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RF24.h" tooltip="RF24Debug/RF24.h">
+<persistable path="/RF24Debug/RF24.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RF24.cpp" tooltip="RF24Debug/RF24.cpp">
+<persistable path="/RF24Debug/RF24.cpp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="RF24Debug.cpp" tooltip="RF24Debug/RF24Debug.cpp">
+<persistable path="/RF24Debug/RF24Debug.cpp"/>
+</file>
+</mruList>
+</workbench>

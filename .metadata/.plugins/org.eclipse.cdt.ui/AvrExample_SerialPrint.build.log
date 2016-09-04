@@ -1,0 +1,48 @@
+16:17:23 **** Incremental Build of configuration Debug for project AvrExample_SerialPrint ****
+make all 
+Building file: ../src/main.cpp
+Invoking: AVR C++ Compiler
+avr-g++ -I"/usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino" -I"/usr/share/arduino-1.6.7/hardware/arduino/avr/variants/standard" -DARDUINO=167 -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -funsigned-char -funsigned-bitfields -fno-exceptions -mmcu=atmega328p -DF_CPU=16000000UL -MMD -MP -MF"src/main.d" -MT"src/main.o" -c -o "src/main.o" "../src/main.cpp"
+In file included from /usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino/USBAPI.h:27:0,
+                 from /usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino/Arduino.h:225,
+                 from ../src/main.cpp:22:
+/usr/lib/avr/include/util/delay.h:95:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed" [-Wcpp]
+ # warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+   ^
+Finished building: ../src/main.cpp
+ 
+Building target: AvrExample_SerialPrint.elf
+Invoking: AVR C++ Linker
+avr-g++ -Wl,-Map,AvrExample_SerialPrint.map,--cref -mrelax -Wl,--gc-sections -L"/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug" -mmcu=atmega328p -o "AvrExample_SerialPrint.elf"  ./src/main.o   -lm -lEclipse_ArduinoCoreLib_167
+Finished building target: AvrExample_SerialPrint.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S AvrExample_SerialPrint.elf  >"AvrExample_SerialPrint.lss"
+Finished building: AvrExample_SerialPrint.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex AvrExample_SerialPrint.elf  "AvrExample_SerialPrint.hex"
+Finished building: AvrExample_SerialPrint.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex AvrExample_SerialPrint.elf  "AvrExample_SerialPrint.eep"
+Finished building: AvrExample_SerialPrint.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega328p AvrExample_SerialPrint.elf
+AVR Memory Usage
+----------------
+Device: atmega328p
+
+Program:    3632 bytes (11.1% Full)
+(.text + .data + .bootloader)
+
+Data:        426 bytes (20.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+16:17:23 Build Finished (took 356ms)
+

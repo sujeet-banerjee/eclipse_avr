@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TestEsp8266/esp8266&apos; to &apos;esp8266_cores&apos;" description="Rename resource &apos;esp8266&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="esp8266" name="esp8266_cores" stamp="1461490495663" updateReferences="true"/>
+</session>

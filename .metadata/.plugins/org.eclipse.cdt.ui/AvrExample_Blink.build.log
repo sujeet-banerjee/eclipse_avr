@@ -1,0 +1,67 @@
+12:10:16 **** Build of configuration Debug for project AvrExample_Blink ****
+make all 
+Building file: ../src/main.cpp
+Invoking: AVR C++ Compiler
+avr-g++ -I"/usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino" -I"/usr/share/arduino-1.6.7/hardware/arduino/avr/variants/standard" -DARDUINO=167 -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -funsigned-char -funsigned-bitfields -fno-exceptions -mmcu=atmega328p -DF_CPU=16000000UL -MMD -MP -MF"src/main.d" -MT"src/main.o" -c -o "src/main.o" "../src/main.cpp"
+In file included from /usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino/USBAPI.h:27:0,
+                 from /usr/share/arduino-1.6.7/hardware/arduino/avr/cores/arduino/Arduino.h:225,
+                 from ../src/main.cpp:1:
+/usr/lib/avr/include/util/delay.h:95:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed" [-Wcpp]
+ # warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+   ^
+Finished building: ../src/main.cpp
+ 
+Building target: AvrExample_Blink.elf
+Invoking: AVR C++ Linker
+avr-g++ -Wl,-Map,AvrExample_Blink.map,--cref -mrelax -Wl,--gc-sections -L"/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug" -mmcu=atmega328p -o "AvrExample_Blink.elf"  ./src/main.o   -lm -lEclipse_ArduinoCoreLib_167
+Finished building target: AvrExample_Blink.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S AvrExample_Blink.elf  >"AvrExample_Blink.lss"
+
+avrdude: Version 6.1, compiled on Nov 23 2014 at 21:15:32
+         Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+         Copyright (c) 2007-2014 Joerg Wunsch
+
+         System wide configuration file is "/etc/avrdude.conf"
+         User configuration file is "/home/sujeet/.avrduderc"
+         User configuration file does not exist or is not a regular file, skipping
+
+         Using Port                    : /dev/ttyUSB0
+         Using Programmer              : arduino
+         Overriding Baud Rate          : 57600
+avrdude: ser_open(): can't open device "/dev/ttyUSB0": No such file or directory
+
+avrdude done.  Thank you.
+
+make: *** [avrdudedummy] Error 1
+Finished building: AvrExample_Blink.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex AvrExample_Blink.elf  "AvrExample_Blink.hex"
+Finished building: AvrExample_Blink.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex AvrExample_Blink.elf  "AvrExample_Blink.eep"
+Finished building: AvrExample_Blink.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega328p AvrExample_Blink.elf
+AVR Memory Usage
+----------------
+Device: atmega328p
+
+Program:    1060 bytes (3.2% Full)
+(.text + .data + .bootloader)
+
+Data:         11 bytes (0.5% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+Invoking: AVRDude
+/usr/bin/avrdude -pm328p -carduino -P/dev/ttyUSB0 -b57600 -D -v -v -v -v -Uflash:w:AvrExample_Blink.hex:a
+
+12:10:18 Build Finished (took 2s.106ms)
+
