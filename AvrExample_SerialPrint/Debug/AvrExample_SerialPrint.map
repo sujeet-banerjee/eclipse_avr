@@ -1,0 +1,1359 @@
+Archive member included because of file (symbol)
+
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                              ./src/main.o (_ZN14HardwareSerial5beginEmh)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                              ./src/main.o (Serial)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+                              ./src/main.o (_Z3maplllll)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__cxa_pure_virtual)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                              ./src/main.o (delay)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                              ./src/main.o (analogRead)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o) (pinMode)
+/media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o) (yield)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o) (__mulsi3)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o) (__divmodsi4)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                              ./src/main.o (__do_copy_data)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                              ./src/main.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o) (__do_global_ctors)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o) (__muluhisi3)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o) (__umulhisi3)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__subsf3)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__divsf3)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__gtsf2)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__mulsf3)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o) (__unordsf2)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o) (random)
+/usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o) (abort)
+/usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+                              /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o) (__mulohisi3)
+
+Discarded input sections
+
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .rodata._ZL2SS
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL4MOSI
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL4MISO
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL3SCK
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL3SDA
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL3SCL
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A0
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A1
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A2
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A3
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A4
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A5
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A6
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL2A7
+                0x0000000000000000        0x1 ./src/main.o
+ .rodata._ZL11analogInPin
+                0x0000000000000000        0x2 ./src/main.o
+ .rodata._ZL12analogOutPin
+                0x0000000000000000        0x2 ./src/main.o
+ .group         0x0000000000000000        0x8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x0000000000000000       0x1c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x0000000000000000       0x44 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x0000000000000000       0x1e /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .text._Z17Serial0_availablev
+                0x0000000000000000       0x14 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .group         0x0000000000000000        0x8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .group         0x0000000000000000        0x8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x0000000000000000       0x46 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x0000000000000000       0x1c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x0000000000000000       0x14 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x0000000000000000       0x1a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x0000000000000000        0xe /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x0000000000000000       0x2e /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printEji
+                0x0000000000000000        0xc /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x0000000000000000       0x2c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x0000000000000000      0x1d6 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x0000000000000000        0x4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x0000000000000000       0x24 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .rodata._ZTV5Print
+                0x0000000000000000        0x8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text._Z10randomSeedm
+                0x0000000000000000       0x10 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text._Z6randoml
+                0x0000000000000000       0x48 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text._Z6randomll
+                0x0000000000000000       0x38 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text._Z8makeWordj
+                0x0000000000000000        0x2 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0xa /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000        0x4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .text.millis   0x0000000000000000       0x18 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x16 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+ .text.analogReference
+                0x0000000000000000        0x6 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .text.digitalRead
+                0x0000000000000000       0x52 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x0000000000000000        0xa /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .text          0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+ .bss           0x0000000000000000        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xc0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xcc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xa /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x58 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x7a /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x48 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x6 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x22 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0x44 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0xe /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x0000000000000000       0xc2 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x0000000000000000        0x8 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+ .text.avr-libc
+                0x0000000000000000       0xba /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+ .text.avr-libc
+                0x0000000000000000        0xa /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x10 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+LOAD ./src/main.o
+LOAD /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a
+LOAD /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xd30
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x0000000000000068       0x14 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x0000000000000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000000000007c       0x14 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x000000000000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000000000000090       0x14 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x0000000000000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x00000000000000a4        0xa /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x00000000000000a4                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000000000000ae        0xa /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x00000000000000ae                port_to_mode_PGM
+                0x00000000000000b8                . = ALIGN (0x2)
+                0x00000000000000b8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000b8        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000b8                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000b8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000000000000b8        0x2 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                0x00000000000000ba                __ctors_end = .
+                0x00000000000000ba                __dtors_start = .
+ *(.dtors)
+                0x00000000000000ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000ba        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+                0x00000000000000ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000ba        0xc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c6       0x16 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000c6                __do_copy_data
+ .init4         0x00000000000000dc       0x10 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                0x00000000000000dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000000000000ec       0x14 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+                0x00000000000000ec                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000100        0x4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000104        0x2 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000104                __vector_22
+                0x0000000000000104                __vector_1
+                0x0000000000000104                __vector_24
+                0x0000000000000104                __vector_12
+                0x0000000000000104                __bad_interrupt
+                0x0000000000000104                __vector_6
+                0x0000000000000104                __vector_3
+                0x0000000000000104                __vector_23
+                0x0000000000000104                __vector_25
+                0x0000000000000104                __vector_11
+                0x0000000000000104                __vector_13
+                0x0000000000000104                __vector_17
+                0x0000000000000104                __vector_7
+                0x0000000000000104                __vector_5
+                0x0000000000000104                __vector_4
+                0x0000000000000104                __vector_9
+                0x0000000000000104                __vector_2
+                0x0000000000000104                __vector_21
+                0x0000000000000104                __vector_15
+                0x0000000000000104                __vector_8
+                0x0000000000000104                __vector_14
+                0x0000000000000104                __vector_10
+                0x0000000000000104                __vector_20
+                0x0000000000000106                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN14HardwareSerial5beginEm
+                0x0000000000000106       0x42 ./src/main.o
+                0x0000000000000106                _ZN14HardwareSerial5beginEm
+ .text.setup    0x0000000000000148       0x1c ./src/main.o
+                0x0000000000000148                setup
+ .text.loop     0x0000000000000164       0xda ./src/main.o
+                0x0000000000000164                loop
+ .text.main     0x000000000000023e       0x10 ./src/main.o
+                0x000000000000023e                main
+ .text._ZN14HardwareSerial9availableEv
+                0x000000000000024e       0x16 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x000000000000024e                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x0000000000000264       0x1c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x0000000000000264                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x0000000000000280       0x28 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x0000000000000280                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000000000002a8       0x42 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x00000000000002a8                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000000000002ea       0x42 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x00000000000002ea                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x000000000000032c       0xc8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x000000000000032c                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000000003f4       0xc0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x00000000000003f4                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x00000000000004b4       0x80 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                0x00000000000004b4                __vector_18
+ .text.__vector_19
+                0x0000000000000534       0x4a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                0x0000000000000534                __vector_19
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x000000000000057e       0x86 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000000000000604       0x50 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000604                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x0000000000000654       0x2c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000654                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x0000000000000680        0x2 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000680                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x0000000000000682        0xe /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000682                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x0000000000000690        0x6 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000690                _ZN5Print7printlnEv
+ .text._ZN5Print11printNumberEmh
+                0x0000000000000696       0xae /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000696                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x0000000000000744       0x8e /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x0000000000000744                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00000000000007d2        0xe /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x00000000000007d2                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00000000000007e0       0x2c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                0x00000000000007e0                _ZN5Print7printlnEii
+ .text._Z3maplllll
+                0x000000000000080c       0x8a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+                0x000000000000080c                _Z3maplllll
+ .text.__vector_16
+                0x0000000000000896       0x94 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x0000000000000896                __vector_16
+ .text.micros   0x000000000000092a       0x46 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x000000000000092a                micros
+ .text.delay    0x0000000000000970       0x4a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x0000000000000970                delay
+ .text.init     0x00000000000009ba       0x76 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x00000000000009ba                init
+ .text.analogRead
+                0x0000000000000a30       0x3a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                0x0000000000000a30                analogRead
+ .text.analogWrite
+                0x0000000000000a6a       0xba /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                0x0000000000000a6a                analogWrite
+ .text.turnOffPWM
+                0x0000000000000b24       0x52 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .text.pinMode  0x0000000000000b76       0x72 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x0000000000000b76                pinMode
+ .text.digitalWrite
+                0x0000000000000be8       0x6a /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                0x0000000000000be8                digitalWrite
+ .text.__empty  0x0000000000000c52        0x2 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+                0x0000000000000c52                yield
+ .text.libgcc.mul
+                0x0000000000000c54       0x1e /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+                0x0000000000000c54                __mulsi3
+ .text.libgcc.div
+                0x0000000000000c72       0x44 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000000000000c72                __udivmodsi4
+ .text.libgcc.div
+                0x0000000000000cb6       0x28 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                0x0000000000000cb6                __divmodsi4
+ .text.libgcc.div
+                0x0000000000000cde       0x10 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                0x0000000000000cde                __negsi2
+ .text.libgcc.mul
+                0x0000000000000cee       0x14 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+                0x0000000000000cee                __muluhisi3
+ .text.libgcc   0x0000000000000d02        0xc /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                0x0000000000000d02                __tablejump2__
+                0x0000000000000d06                __tablejump__
+ .text.libgcc.mul
+                0x0000000000000d0e       0x1e /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                0x0000000000000d0e                __umulhisi3
+                0x0000000000000d2c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000d2c        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                0x0000000000000d2c                exit
+                0x0000000000000d2c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000d2c        0x4 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000d30                _etext = .
+
+.data           0x0000000000800100      0x100 load address 0x0000000000000d30
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+ .data          0x0000000000800100        0x0 ./src/main.o
+ .data          0x0000000000800100       0x28 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .data          0x0000000000800128       0x10 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .data          0x0000000000800138       0x6c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .data          0x00000000008001a4       0x18 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .data          0x00000000008001bc        0x8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .data          0x00000000008001c4        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .data          0x00000000008001c4        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+ .data          0x00000000008001c4        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .data          0x00000000008001c4        0x0 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x00000000008001c4        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .data          0x00000000008001c4        0x4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+ .data          0x00000000008001c8        0x0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+ .data          0x00000000008001c8        0x0 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+ *(.data*)
+ .data.analog_reference
+                0x00000000008001c8        0x1 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                0x00000000008001c8                analog_reference
+ *(.rodata)
+ .rodata        0x00000000008001c9       0x16 ./src/main.o
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00000000008001df       0x10 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                0x00000000008001df                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x00000000008001ef       0x11 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ *(.gnu.linkonce.d*)
+                0x0000000000800200                . = ALIGN (0x2)
+                0x0000000000800200                _edata = .
+                0x0000000000800200                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800200       0xaa
+                0x0000000000800200                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.sensorValue
+                0x0000000000800200        0x2 ./src/main.o
+                0x0000000000800200                sensorValue
+ .bss.outputValue
+                0x0000000000800202        0x2 ./src/main.o
+                0x0000000000800202                outputValue
+ .bss.Serial    0x0000000000800204       0x9d /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                0x0000000000800204                Serial
+ .bss.timer0_fract
+                0x00000000008002a1        0x1 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .bss.timer0_millis
+                0x00000000008002a2        0x4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x00000000008002a2                timer0_millis
+ .bss.timer0_overflow_count
+                0x00000000008002a6        0x4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                0x00000000008002a6                timer0_overflow_count
+ *(COMMON)
+                0x00000000008002aa                PROVIDE (__bss_end, .)
+                0x0000000000000d30                __data_load_start = LOADADDR (.data)
+                0x0000000000000e30                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008002aa        0x0
+                0x00000000008002aa                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00000000008002aa                PROVIDE (__noinit_end, .)
+                0x00000000008002aa                _end = .
+                0x00000000008002aa                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x0000000000000000     0x6bc4
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+ .stab          0x00000000000006cc      0x810 ./src/main.o
+                                        0x81c (size before relaxing)
+ .stab          0x0000000000000edc      0xa2c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                        0xc3c (size before relaxing)
+ .stab          0x0000000000001908      0x7f8 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                        0x834 (size before relaxing)
+ .stab          0x0000000000002100      0xa5c /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                       0x1344 (size before relaxing)
+ .stab          0x0000000000002b5c      0x3b4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+                                        0x528 (size before relaxing)
+ .stab          0x0000000000002f10      0x348 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+                                        0x3a8 (size before relaxing)
+ .stab          0x0000000000003258      0x948 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                                        0xa2c (size before relaxing)
+ .stab          0x0000000000003ba0      0x5f4 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                                        0x8d0 (size before relaxing)
+ .stab          0x0000000000004194      0x690 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                                        0xb1c (size before relaxing)
+ .stab          0x0000000000004824      0x270 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+                                        0x27c (size before relaxing)
+ .stab          0x0000000000004a94       0x78 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                         0x84 (size before relaxing)
+ .stab          0x0000000000004b0c      0x4bc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                        0x4c8 (size before relaxing)
+ .stab          0x0000000000004fc8       0x90 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                         0x9c (size before relaxing)
+ .stab          0x0000000000005058       0x48 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                         0x54 (size before relaxing)
+ .stab          0x00000000000050a0      0x510 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                        0x51c (size before relaxing)
+ .stab          0x00000000000055b0       0x6c /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                         0x78 (size before relaxing)
+ .stab          0x000000000000561c      0x240 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                        0x24c (size before relaxing)
+ .stab          0x000000000000585c      0x318 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                        0x324 (size before relaxing)
+ .stab          0x0000000000005b74      0x1e0 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                        0x1ec (size before relaxing)
+ .stab          0x0000000000005d54       0x78 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                         0x84 (size before relaxing)
+ .stab          0x0000000000005dcc       0x54 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                         0x60 (size before relaxing)
+ .stab          0x0000000000005e20       0x84 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000005ea4       0x84 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                         0x90 (size before relaxing)
+ .stab          0x0000000000005f28       0xfc /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                        0x108 (size before relaxing)
+ .stab          0x0000000000006024      0x1d4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                        0x1e0 (size before relaxing)
+ .stab          0x00000000000061f8       0x90 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                         0x9c (size before relaxing)
+ .stab          0x0000000000006288       0x6c /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+                                         0x78 (size before relaxing)
+ .stab          0x00000000000062f4       0x48 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                         0x54 (size before relaxing)
+ .stab          0x000000000000633c      0x4d4 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                        0x4e0 (size before relaxing)
+ .stab          0x0000000000006810       0x60 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                         0x6c (size before relaxing)
+ .stab          0x0000000000006870      0x30c /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                        0x4a4 (size before relaxing)
+ .stab          0x0000000000006b7c       0x48 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+                                         0x54 (size before relaxing)
+
+.stabstr        0x0000000000000000     0x3e6f
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0x3e6f /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./src/main.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+ .comment       0x0000000000000000       0x12 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+ .comment       0x0000000000000000       0x12 /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(AvrExample_SerialPrint.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::_tx_udr_empty_irq()               /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+HardwareSerial::available()                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+HardwareSerial::availableForWrite()               /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              ./src/main.o
+HardwareSerial::begin(unsigned long, unsigned char) /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                                  ./src/main.o
+HardwareSerial::end()                             /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+HardwareSerial::flush()                           /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+HardwareSerial::peek()                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+HardwareSerial::read()                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+Print::print(Printable const&)                    /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(String const&)                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(__FlashStringHelper const*)          /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(char const*)                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  ./src/main.o
+Print::print(char)                                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(double, int)                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(int, int)                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  ./src/main.o
+Print::print(long, int)                           /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(unsigned char, int)                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(unsigned int, int)                   /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::print(unsigned long, int)                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::printFloat(double, unsigned char)          /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println()                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(Printable const&)                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(String const&)                     /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(__FlashStringHelper const*)        /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(char const*)                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(char)                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(double, int)                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(int, int)                          /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  ./src/main.o
+Print::println(long, int)                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(unsigned char, int)                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(unsigned int, int)                 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::println(unsigned long, int)                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::write(char const*)                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+Serial                                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  ./src/main.o
+Serial0_available()                               /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+__addsf3                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__addsf3x                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+__cxa_deleted_virtual                             /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+__cxa_pure_virtual                                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__data_end                                        /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+__divmodsi4                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+__divsf3                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__divsf3_pse                                      /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_clear_bss.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  ./src/main.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                                  ./src/main.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+__eqsf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__floatunsisf                                     /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__fp_cmp                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3x.o)
+__gesf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+__gtsf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__heap_end                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__init                                            /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__mulohisi3                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__mulsf3_pse                                      /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulshisi3                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+__mulsi3                                          /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+__muluhisi3                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulshisi3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_mulsi3.o)
+__negsi2                                          /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_negsi2.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+__nesf2                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__stack                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__tablejump2__                                    /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_ctors.o)
+__udivmodsi4                                      /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_divmodsi4.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+__umulhisi3                                       /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_umulhisi3.o)
+                                                  /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_muluhisi3.o)
+__unordsf2                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+__vector_1                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+_exit                                             /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+abort                                             /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(abort.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(abi.o)
+analogRead                                        /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                                                  ./src/main.o
+analogReference                                   /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+analogWrite                                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+                                                  ./src/main.o
+analog_reference                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+delay                                             /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                                                  ./src/main.o
+delayMicroseconds                                 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+digitalRead                                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+digitalWrite                                      /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+digital_pin_to_bit_mask_PGM                       /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+exit                                              /usr/lib/gcc/avr/4.8.2/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+init                                              /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+                                                  ./src/main.o
+loop                                              ./src/main.o
+main                                              ./src/main.o
+                                                  /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/crtm328p.o
+makeWord(unsigned char, unsigned char)            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+makeWord(unsigned int)                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+map(long, long, long, long, long)                 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+                                                  ./src/main.o
+micros                                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+millis                                            /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+outputValue                                       ./src/main.o
+pinMode                                           /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_analog.o)
+port_to_input_PGM                                 /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+port_to_mode_PGM                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+port_to_output_PGM                                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring_digital.o)
+random                                            /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+random(long)                                      /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+random(long, long)                                /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+randomSeed(unsigned long)                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+random_r                                          /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+sensorValue                                       ./src/main.o
+serialEvent()                                     /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+serialEventRun()                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+setup                                             ./src/main.o
+srandom                                           /usr/lib/gcc/avr/4.8.2/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(WMath.o)
+timer0_millis                                     /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+timer0_overflow_count                             /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)
+vtable for HardwareSerial                         /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(HardwareSerial0.o)
+vtable for Print                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(Print.o)
+yield                                             /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(hooks.o)
+                                                  /media/sujeet/devmain_74GB/dev/workspaces/eclipse_avr/Eclipse_ArduinoCoreLib_167/Debug/libEclipse_ArduinoCoreLib_167.a(wiring.o)

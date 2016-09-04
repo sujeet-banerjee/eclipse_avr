@@ -1,0 +1,1720 @@
+Archive member included because of file (symbol)
+
+/Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                              ./src/main.o (_ZN4RF24C2Ehh)
+/Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                              ./src/main.o (_ZN9RF24Debug12printDetailsEv)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o) (_ZN8SPIClass5beginEv)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                              ./src/main.o (Serial)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__cxa_pure_virtual)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o) (micros)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                              ./src/main.o (pinMode)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o) (malloc)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__subsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__ltsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__divsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__fixsfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__fixunssfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__floatunsisf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__gtsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__mulsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__unordsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__divmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__udivmodsi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                              ./src/main.o (__do_copy_data)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                              ./src/main.o (__do_clear_bss)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                              ./src/main.o (__do_global_ctors)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o) (__cmpdi2_s8)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o) (__strlen_P)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__flp               0x2               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .stab          0x00000000      0x978 ./src/main.o
+ .stabstr       0x00000000     0x12b0 ./src/main.o
+ .text._Z8get_datav
+                0x00000000        0xc ./src/main.o
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .stab          0x00000000     0x2310 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .stabstr       0x00000000     0x2341 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2413write_payloadEPKvhh
+                0x00000000       0xb2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410getChannelEv
+                0x00000000        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2414setPayloadSizeEh
+                0x00000000        0xc /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2414getPayloadSizeEv
+                0x00000000        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2413stopListeningEv
+                0x00000000       0x1e /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF249powerDownEv
+                0x00000000       0x1c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF247powerUpEv
+                0x00000000       0x24 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410startWriteEPKvhb
+                0x00000000       0x72 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2421getDynamicPayloadSizeEv
+                0x00000000       0x32 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2412whatHappenedERbS0_S0_
+                0x00000000       0x66 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2415openWritingPipeEy
+                0x00000000       0x78 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2416closeReadingPipeEh
+                0x00000000       0x38 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2415toggle_featuresEv
+                0x00000000       0x28 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2421enableDynamicPayloadsEv
+                0x00000000       0x5c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2416enableAckPayloadEv
+                0x00000000       0x56 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2415writeAckPayloadEhPKvh
+                0x00000000       0x72 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2421isAckPayloadAvailableEv
+                0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410setAutoAckEb
+                0x00000000       0x10 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410setAutoAckEhb
+                0x00000000       0x6a /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2411testCarrierEv
+                0x00000000        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF247testRPDEv
+                0x00000000        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410disableCRCEv
+                0x00000000       0x1c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410setRetriesEhh
+                0x00000000       0x12 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2410getRetriesEv
+                0x00000000        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF2413getMaxTimeoutEv
+                0x00000000       0x2c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .text._ZN4RF245writeEPKvhb
+                0x00000000       0xe0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .stab          0x00000000     0x1050 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .stabstr       0x00000000     0x1a43 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .stab          0x00000000      0x798 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .stabstr       0x00000000     0x1168 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .stab          0x00000000      0xffc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .stabstr       0x00000000     0x1965 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._Z11serialEventv
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000       0x88 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000      0x10c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0xaa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x10 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .stab          0x00000000     0x1308 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .stabstr       0x00000000     0x19a2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1d6 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .stab          0x00000000      0x4c8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .stabstr       0x00000000      0xaf4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._Znwj    0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._Znaj    0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .stab          0x00000000      0xa20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .stabstr       0x00000000     0x11af /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .text.millis   0x00000000       0x18 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .stab          0x00000000      0xb1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .stabstr       0x00000000     0x12ed /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .stab          0x00000000      0x8e8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .stabstr       0x00000000      0xe87 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x24e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_heap_end
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_heap_start
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_margin
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ COMMON         0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000       0x69 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00000000       0x78 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_line    0x00000000       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x00000000       0x61 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000       0x5e /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_line    0x00000000       0x60 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .debug_line    0x00000000       0x5c /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00000000       0x6a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_line    0x00000000       0x5c /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./src/main.o
+LOAD /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a
+LOAD /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1a44
+ *(.vectors)
+ .vectors       0x00000000       0x68 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data._ZL17child_pipe_enable
+                0x00000068        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .progmem.data._ZL18child_payload_size
+                0x0000006e        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .progmem.data._ZL10child_pipe
+                0x00000074        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .progmem.data._ZZN9RF24Debug15on_read_payloadEhhE3__c_0
+                0x0000007a        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug15on_read_payloadEhhE3__c
+                0x00000082        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug16on_write_payloadEhhE3__c_0
+                0x0000008b        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug16on_write_payloadEhhE3__c
+                0x00000093        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug6on_ackEhE3__c
+                0x0000009c        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug9on_statusEhE3__c_0
+                0x000000a5        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug9on_statusEhE3__c
+                0x000000af        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug10observe_txEhE3__c_1
+                0x000000b6        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug10observe_txEhE3__c_0
+                0x000000c0        0xc /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug10observe_txEhE3__c
+                0x000000cc        0xb /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug17on_write_registerEhhE3__c
+                0x000000d7       0x10 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_12
+                0x000000e7        0xd /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_11
+                0x000000f4        0xf /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_10
+                0x00000103        0xb /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_9
+                0x0000010e        0xe /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_8
+                0x0000011c        0xe /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_7
+                0x0000012a        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_6
+                0x00000131        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_5
+                0x0000013a        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_4
+                0x00000140        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_3
+                0x0000014a        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_2
+                0x00000150        0xb /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_1
+                0x0000015b        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c_0
+                0x00000163        0xd /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12printDetailsEvE3__c
+                0x00000170        0xd /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c_4
+                0x0000017d        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c_3
+                0x00000187        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c_2
+                0x00000191        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c_1
+                0x0000019a        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c_0
+                0x000001a2        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug12print_statusEhE3__c
+                0x000001aa        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug22print_address_registerEPKchhE3__c
+                0x000001b1        0x4 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug14print_hex_byteEhE3__c
+                0x000001b5        0x4 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZZN9RF24Debug10print_nameEPKcE3__c
+                0x000001b9        0x4 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_P
+                0x000001bd        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_3
+                0x000001c5        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_2
+                0x000001cc        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_1
+                0x000001d4        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL19rf24_pa_dbm_e_str_0
+                0x000001db        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL22rf24_crclength_e_str_P
+                0x000001e2        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL22rf24_crclength_e_str_2
+                0x000001e8        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL22rf24_crclength_e_str_1
+                0x000001f0        0x7 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL22rf24_crclength_e_str_0
+                0x000001f7        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL18rf24_model_e_str_P
+                0x00000200        0x4 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL18rf24_model_e_str_1
+                0x00000204        0xa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL18rf24_model_e_str_0
+                0x0000020e        0x9 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL21rf24_datarate_e_str_P
+                0x00000217        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL21rf24_datarate_e_str_2
+                0x0000021d        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL21rf24_datarate_e_str_1
+                0x00000225        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data._ZL21rf24_datarate_e_str_0
+                0x0000022b        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000231       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00000231                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x00000245       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00000245                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000259       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00000259                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x0000026d        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x0000026d                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000277        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00000277                port_to_mode_PGM
+                0x00000282                . = ALIGN (0x2)
+ *fill*         0x00000281        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000282                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000282        0x2 ./src/main.o
+ .ctors         0x00000284        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000286                __ctors_end = .
+                0x00000286                __dtors_start = .
+ *(.dtors)
+                0x00000286                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000286        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000286                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000286        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000292       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                0x00000292                __do_copy_data
+ .init4         0x000002a8       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                0x000002a8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000002b8       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                0x000002b8                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000002ce        0x6 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000002d4        0x2 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x000002d4                __vector_20
+                0x000002d4                __vector_1
+                0x000002d4                __vector_24
+                0x000002d4                __vector_12
+                0x000002d4                __bad_interrupt
+                0x000002d4                __vector_6
+                0x000002d4                __vector_3
+                0x000002d4                __vector_23
+                0x000002d4                __vector_25
+                0x000002d4                __vector_11
+                0x000002d4                __vector_13
+                0x000002d4                __vector_17
+                0x000002d4                __vector_7
+                0x000002d4                __vector_5
+                0x000002d4                __vector_4
+                0x000002d4                __vector_9
+                0x000002d4                __vector_2
+                0x000002d4                __vector_21
+                0x000002d4                __vector_15
+                0x000002d4                __vector_8
+                0x000002d4                __vector_14
+                0x000002d4                __vector_10
+                0x000002d4                __vector_22
+                0x000002d6                . = ALIGN (0x2)
+ *(.text.*)
+ .text.setup    0x000002d6       0x78 ./src/main.o
+                0x000002d6                setup
+ .text.loop     0x0000034e      0x126 ./src/main.o
+                0x0000034e                loop
+ .text.startup.main
+                0x00000474        0xa ./src/main.o
+                0x00000474                main
+ .text.startup._GLOBAL__sub_I_isOn
+                0x0000047e       0x34 ./src/main.o
+ .text._ZN4RF2417on_write_registerEhh
+                0x000004b2        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004b2                _ZN4RF2417on_write_registerEhh
+ .text._ZN4RF2410observe_txEh
+                0x000004b4        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004b4                _ZN4RF2410observe_txEh
+ .text._ZN4RF246on_ackEh
+                0x000004b6        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004b6                _ZN4RF246on_ackEh
+ .text._ZN4RF249on_statusEh
+                0x000004b8        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004b8                _ZN4RF249on_statusEh
+ .text._ZN4RF2416on_write_payloadEhh
+                0x000004ba        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004ba                _ZN4RF2416on_write_payloadEhh
+ .text._ZN4RF2415on_read_payloadEhh
+                0x000004bc        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004bc                _ZN4RF2415on_read_payloadEhh
+ .text._ZN4RF2412printDetailsEv
+                0x000004be        0x2 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004be                _ZN4RF2412printDetailsEv
+ .text._ZN8SPIClass8transferEh
+                0x000004c0        0xc /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004c0                _ZN8SPIClass8transferEh
+ .text._ZN4RF243csnEi
+                0x000004cc       0x32 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004cc                _ZN4RF243csnEi
+ .text._ZN4RF242ceEi
+                0x000004fe        0x8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000004fe                _ZN4RF242ceEi
+ .text._ZN4RF2413read_registerEhPhh
+                0x00000506       0x68 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000506                _ZN4RF2413read_registerEhPhh
+ .text._ZN4RF2413read_registerEh
+                0x0000056e       0x2e /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000056e                _ZN4RF2413read_registerEh
+ .text._ZN4RF2414write_registerEhPKhh
+                0x0000059c       0x68 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000059c                _ZN4RF2414write_registerEhPKhh
+ .text._ZN4RF2414write_registerEhh
+                0x00000604       0x44 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000604                _ZN4RF2414write_registerEhh
+ .text._ZN4RF2412read_payloadEPvh
+                0x00000648       0x8e /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000648                _ZN4RF2412read_payloadEPvh
+ .text._ZN4RF248flush_rxEv
+                0x000006d6       0x26 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000006d6                _ZN4RF248flush_rxEv
+ .text._ZN4RF248flush_txEv
+                0x000006fc       0x26 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000006fc                _ZN4RF248flush_txEv
+ .text._ZN4RF2410get_statusEv
+                0x00000722       0x26 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000722                _ZN4RF2410get_statusEv
+ .text._ZN4RF24C2Ehh
+                0x00000748       0x2c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000748                _ZN4RF24C1Ehh
+                0x00000748                _ZN4RF24C2Ehh
+ .text._ZN4RF2410setChannelEh
+                0x00000774        0xc /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000774                _ZN4RF2410setChannelEh
+ .text._ZN4RF2414startListeningEv
+                0x00000780       0x54 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000780                _ZN4RF2414startListeningEv
+ .text._ZN4RF249availableEPh
+                0x000007d4       0x56 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000007d4                _ZN4RF249availableEPh
+ .text._ZN4RF249availableEv
+                0x0000082a        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000082a                _ZN4RF249availableEv
+ .text._ZN4RF244readEPvh
+                0x00000830       0x16 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000830                _ZN4RF244readEPvh
+ .text._ZN4RF2415openReadingPipeEhy
+                0x00000846       0xd8 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000846                _ZN4RF2415openReadingPipeEhy
+ .text._ZN4RF2410isPVariantEv
+                0x0000091e        0x6 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000091e                _ZN4RF2410isPVariantEv
+ .text._ZN4RF2410setPALevelE13rf24_pa_dbm_e
+                0x00000924       0x38 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000924                _ZN4RF2410setPALevelE13rf24_pa_dbm_e
+ .text._ZN4RF2410getPALevelEv
+                0x0000095c       0x22 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000095c                _ZN4RF2410getPALevelEv
+ .text._ZN4RF2411setDataRateE15rf24_datarate_e
+                0x0000097e       0x4a /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0000097e                _ZN4RF2411setDataRateE15rf24_datarate_e
+ .text._ZN4RF2411getDataRateEv
+                0x000009c8       0x1a /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000009c8                _ZN4RF2411getDataRateEv
+ .text._ZN4RF2412setCRCLengthE16rf24_crclength_e
+                0x000009e2       0x2c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x000009e2                _ZN4RF2412setCRCLengthE16rf24_crclength_e
+ .text._ZN4RF245beginEv
+                0x00000a0e       0x78 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000a0e                _ZN4RF245beginEv
+ .text._ZN4RF2412getCRCLengthEv
+                0x00000a86       0x18 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x00000a86                _ZN4RF2412getCRCLengthEv
+ .text._ZN9RF24Debug6on_ackEh
+                0x00000a9e       0x26 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000a9e                _ZN9RF24Debug6on_ackEh
+ .text._ZN9RF24Debug16on_write_payloadEhh
+                0x00000ac4       0x42 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000ac4                _ZN9RF24Debug16on_write_payloadEhh
+ .text._ZN9RF24Debug15on_read_payloadEhh
+                0x00000b06       0x42 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000b06                _ZN9RF24Debug15on_read_payloadEhh
+ .text._ZN9RF24Debug10print_nameEPKc
+                0x00000b48       0x34 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000b48                _ZN9RF24Debug10print_nameEPKc
+ .text._ZN9RF24Debug14print_hex_byteEh
+                0x00000b7c       0x32 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000b7c                _ZN9RF24Debug14print_hex_byteEh
+ .text._ZN9RF24Debug17on_write_registerEhh
+                0x00000bae       0x50 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000bae                _ZN9RF24Debug17on_write_registerEhh
+ .text._ZN9RF24Debug10observe_txEh
+                0x00000bfe       0x58 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000bfe                _ZN9RF24Debug10observe_txEh
+ .text._ZN9RF24Debug19print_byte_registerEPKchh
+                0x00000c56       0x4c /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000c56                _ZN9RF24Debug19print_byte_registerEPKchh
+ .text._ZN9RF24Debug22print_address_registerEPKchh
+                0x00000ca2       0xb0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000ca2                _ZN9RF24Debug22print_address_registerEPKchh
+ .text._ZN9RF24Debug12print_statusEh
+                0x00000d52       0xaa /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000d52                _ZN9RF24Debug12print_statusEh
+ .text._ZN9RF24Debug12printDetailsEv
+                0x00000dfc      0x11a /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000dfc                _ZN9RF24Debug12printDetailsEv
+ .text._ZN9RF24Debug9on_statusEh
+                0x00000f16       0x26 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x00000f16                _ZN9RF24Debug9on_statusEh
+ .text._ZN8SPIClass5beginEv
+                0x00000f3c       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000f3c                _ZN8SPIClass5beginEv
+ .text._ZN8SPIClass11setBitOrderEh
+                0x00000f60       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000f60                _ZN8SPIClass11setBitOrderEh
+ .text._ZN8SPIClass11setDataModeEh
+                0x00000f72        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000f72                _ZN8SPIClass11setDataModeEh
+ .text._ZN8SPIClass15setClockDividerEh
+                0x00000f7c       0x1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000f7c                _ZN8SPIClass15setClockDividerEh
+ .text._ZN14HardwareSerial9availableEv
+                0x00000f98       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000f98                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000fbc       0x32 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000fbc                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000fee       0x40 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000fee                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x0000102e       0x16 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x0000102e                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00001044       0x7a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00001044                _ZN14HardwareSerial5writeEh
+ .text.__vector_18
+                0x000010be       0x88 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x000010be                __vector_18
+ .text.__vector_19
+                0x00001146       0x8e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00001146                __vector_19
+ .text._ZN14HardwareSerial5beginEm
+                0x000011d4       0xfe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x000011d4                _ZN14HardwareSerial5beginEm
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x000012d2       0xac /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000137e       0x50 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x0000137e                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x000013ce       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000013ce                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x000013fa       0x4a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000013fa                _ZN5Print5printEPK19__FlashStringHelper
+ .text._ZN5Print5printEPKc
+                0x00001444        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001444                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00001446        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001446                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00001454       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001454                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00001478       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001478                _ZN5Print7printlnEPK19__FlashStringHelper
+ .text._ZN5Print7printlnEPKc
+                0x00001498       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001498                _ZN5Print7printlnEPKc
+ .text._ZN5Print7printlnEc
+                0x000014b8       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000014b8                _ZN5Print7printlnEc
+ .text._ZN5Print11printNumberEmh
+                0x000014d8       0xae /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000014d8                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x00001586       0x8e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001586                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00001614        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001614                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00001622       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001622                _ZN5Print7printlnEii
+ .text._ZN5Print5printEmi
+                0x0000164e       0x18 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x0000164e                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00001666        0xc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001666                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x00001672       0x2a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001672                _ZN5Print7printlnEhi
+ .text.__vector_16
+                0x0000169c       0x94 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x0000169c                __vector_16
+ .text.micros   0x00001730       0x46 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00001730                micros
+ .text.delay    0x00001776       0x48 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00001776                delay
+ .text.delayMicroseconds
+                0x000017be       0x16 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x000017be                delayMicroseconds
+ .text.init     0x000017d4       0x76 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x000017d4                init
+ .text.turnOffPWM
+                0x0000184a       0x52 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .text.pinMode  0x0000189c       0x72 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x0000189c                pinMode
+ .text.digitalWrite
+                0x0000190e       0x6a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x0000190e                digitalWrite
+ .text.libgcc.div
+                0x00001978       0x26 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                0x00001978                __divmodhi4
+                0x00001978                _div
+ .text.libgcc.div
+                0x0000199e       0x44 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                0x0000199e                __udivmodsi4
+ .text.libgcc   0x000019e2       0x18 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+                0x000019e2                __cmpdi2_s8
+ .text.libgcc.div
+                0x000019fa       0x28 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                0x000019fa                __udivmodhi4
+ .text.libgcc   0x00001a22        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                0x00001a22                __tablejump2__
+                0x00001a26                __tablejump__
+ .text.avr-libc
+                0x00001a2e       0x12 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                0x00001a2e                __strlen_P
+                0x00001a40                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001a40        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                0x00001a40                exit
+                0x00001a40                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001a40        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001a44                _etext = .
+
+.data           0x00800100      0x190 load address 0x00001a44
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 ./src/main.o
+ .data          0x00800100        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .data          0x00800100        0x0 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .data          0x00800100       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .data          0x00800114       0x3c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .data          0x00800150       0x6c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .data          0x008001bc       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .data          0x008001dc        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .data          0x008001dc        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .data          0x008001dc        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .data          0x008001dc        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x008001dc       0x80 ./src/main.o
+ .rodata._ZTV4RF24
+                0x0080025c       0x12 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                0x0080025c                _ZTV4RF24
+ .rodata._ZTV9RF24Debug
+                0x0080026e       0x12 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                0x0080026e                _ZTV9RF24Debug
+ .rodata._ZTV14HardwareSerial
+                0x00800280       0x10 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00800280                _ZTV14HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x00800290                . = ALIGN (0x2)
+                0x00800290                _edata = .
+                0x00800290                PROVIDE (__data_end, .)
+
+.bss            0x00800290       0xce
+                0x00800290                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.last      0x00800290        0x2 ./src/main.o
+                0x00800290                last
+ .bss.joystick  0x00800292        0x4 ./src/main.o
+                0x00800292                joystick
+ .bss.radio     0x00800296       0x14 ./src/main.o
+                0x00800296                radio
+ .bss.isOn      0x008002aa        0x1 ./src/main.o
+                0x008002aa                isOn
+ .bss.Serial    0x008002ab       0x22 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x008002ab                Serial
+ .bss.tx_buffer
+                0x008002cd       0x44 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x008002cd                tx_buffer
+ .bss.rx_buffer
+                0x00800311       0x44 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00800311                rx_buffer
+ .bss.timer0_fract
+                0x00800355        0x1 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .bss.timer0_millis
+                0x00800356        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00800356                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080035a        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x0080035a                timer0_overflow_count
+ *(COMMON)
+                0x0080035e                PROVIDE (__bss_end, .)
+                0x00001a44                __data_load_start = LOADADDR (.data)
+                0x00001bd4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080035e        0x0
+                0x0080035e                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080035e                PROVIDE (__noinit_end, .)
+                0x0080035e                _end = .
+                0x0080035e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ./src/main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(RF24ExampleSuccess2.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::available()                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  ./src/main.o
+HardwareSerial::begin(unsigned long, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::end()                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::flush()                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::operator bool()                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::peek()                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::read()                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+Print::print(Printable const&)                    /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(String const&)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(__FlashStringHelper const*)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::print(char const*)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::print(char)                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::print(double, int)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(int, int)                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                                                  ./src/main.o
+Print::print(long, int)                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(unsigned char, int)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::print(unsigned int, int)                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(unsigned long, int)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::printFloat(double, unsigned char)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println()                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::println(Printable const&)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(String const&)                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(__FlashStringHelper const*)        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::println(char const*)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::println(char)                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::println(double, int)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(int, int)                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                                                  ./src/main.o
+Print::println(long, int)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(unsigned char, int)                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+Print::println(unsigned int, int)                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(unsigned long, int)                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::write(char const*)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+RF24::RF24(unsigned char, unsigned char)          /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::RF24(unsigned char, unsigned char)          /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::available()                                 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::available(unsigned char*)                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::begin()                                     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::ce(int)                                     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::closeReadingPipe(unsigned char)             /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::csn(int)                                    /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::disableCRC()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::enableAckPayload()                          /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::enableDynamicPayloads()                     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::flush_rx()                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::flush_tx()                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::getCRCLength()                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::getChannel()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::getDataRate()                               /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::getDynamicPayloadSize()                     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::getMaxTimeout()                             /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::getPALevel()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::getPayloadSize()                            /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::getRetries()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::get_status()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::isAckPayloadAvailable()                     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::isPVariant()                                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::observe_tx(unsigned char)                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::on_ack(unsigned char)                       /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::on_read_payload(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::on_status(unsigned char)                    /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::on_write_payload(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::on_write_register(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::openReadingPipe(unsigned char, unsigned long long) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::openWritingPipe(unsigned long long)         /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::powerDown()                                 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::powerUp()                                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::printDetails()                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::read(void*, unsigned char)                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::read_payload(void*, unsigned char)          /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::read_register(unsigned char)                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::read_register(unsigned char, unsigned char*, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24::setAutoAck(bool)                            /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setAutoAck(unsigned char, bool)             /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setCRCLength(rf24_crclength_e)              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setChannel(unsigned char)                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setDataRate(rf24_datarate_e)                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setPALevel(rf24_pa_dbm_e)                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setPayloadSize(unsigned char)               /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::setRetries(unsigned char, unsigned char)    /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::startListening()                            /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+RF24::startWrite(void const*, unsigned char, bool) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::stopListening()                             /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::testCarrier()                               /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::testRPD()                                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::toggle_features()                           /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::whatHappened(bool&, bool&, bool&)           /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::write(void const*, unsigned char, bool)     /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::writeAckPayload(unsigned char, void const*, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::write_payload(void const*, unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::write_register(unsigned char, unsigned char const*, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24::write_register(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+RF24Debug::observe_tx(unsigned char)              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::on_ack(unsigned char)                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::on_read_payload(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::on_status(unsigned char)               /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::on_write_payload(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::on_write_register(unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::printDetails()                         /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                                                  ./src/main.o
+RF24Debug::print_address_register(char const*, unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::print_byte_register(char const*, unsigned char, unsigned char) /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::print_hex_byte(unsigned char)          /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::print_name(char const*)                /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+RF24Debug::print_status(unsigned char)            /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+SPI                                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+SPIClass::begin()                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+SPIClass::end()                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+SPIClass::setBitOrder(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+SPIClass::setClockDivider(unsigned char)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+SPIClass::setDataMode(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+SPIClass::transfer(unsigned char)                 /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+Serial                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  ./src/main.o
+__addsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__addsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__bss_end                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__cmpdi2_s8                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_cmpdi2_s8.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+__cmpsf2                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__cxa_guard_abort                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_guard_acquire                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_guard_release                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_pure_virtual                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__data_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__divsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__divsf3_pse                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+__do_copy_data                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+__do_global_ctors                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  ./src/main.o
+__eqsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixsfsi                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__fixunssfsi                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__floatsisf                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__floatunsisf                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__flp                                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__fp_cmp                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__gesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+__gtsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__heap_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__heap_start                                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__init                                            /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__ltsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__malloc_heap_end                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__malloc_heap_start                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__malloc_margin                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__mulsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__mulsf3_pse                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__nesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__stack                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__strlen_P                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(strlen_P.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+__subsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__tablejump2__                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__udivmodhi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__unordsf2                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__vector_1                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+_div                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+delay                                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+delayMicroseconds                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+digitalRead                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+digitalWrite                                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+digital_pin_to_bit_mask_PGM                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+exit                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+free                                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+get_data()                                        ./src/main.o
+init                                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  ./src/main.o
+isOn                                              ./src/main.o
+joystick                                          ./src/main.o
+last                                              ./src/main.o
+loop                                              ./src/main.o
+main                                              ./src/main.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+malloc                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+micros                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+millis                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+operator delete(void*)                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator delete[](void*)                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator new(unsigned int)                        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator new[](unsigned int)                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+pinMode                                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+                                                  ./src/main.o
+port_to_input_PGM                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+port_to_mode_PGM                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+port_to_output_PGM                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+radio                                             ./src/main.o
+rx_buffer                                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+serialEvent()                                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+serialEventRun()                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+setup                                             ./src/main.o
+timer0_millis                                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+timer0_overflow_count                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+tx_buffer                                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+vtable for HardwareSerial                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+vtable for Print                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+vtable for RF24                                   /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24.o)
+vtable for RF24Debug                              /Users/banerjees/workspace/avr/third-party/RF24Debug/Debug/libRF24Debug.a(RF24Debug.o)
+                                                  ./src/main.o
+vtable for Stream                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)

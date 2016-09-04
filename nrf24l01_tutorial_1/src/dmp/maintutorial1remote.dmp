@@ -1,0 +1,188 @@
+
+out/maintutorial1remote.out:     file format elf32-littlearm
+out/maintutorial1remote.out
+architecture: arm, flags 0x00000112:
+EXEC_P, HAS_SYMS, D_PAGED
+start address 0x00000000
+
+Program Header:
+    LOAD off    0x00008000 vaddr 0x00000000 paddr 0x00000000 align 2**15
+         filesz 0x0000285c memsz 0x0000285c flags r-x
+    LOAD off    0x00010200 vaddr 0x40000200 paddr 0x0000285c align 2**15
+         filesz 0x00000000 memsz 0x00000000 flags rw-
+    LOAD off    0x00010200 vaddr 0x40000200 paddr 0x40000200 align 2**15
+         filesz 0x00000000 memsz 0x00000000 flags rw-
+private flags = 0: [APCS-32] [FPA float format]
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         0000285c  00000000  00000000  00008000  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .data         00000000  40000200  0000285c  00010200  2**0
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000000  40000200  0000285c  00010200  2**0
+                  ALLOC
+  3 .debug_abbrev 0000037c  00000000  00000000  00010200  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  4 .debug_info   00001bd1  00000000  00000000  0001057c  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  5 .debug_line   00000417  00000000  00000000  0001214d  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  6 .debug_frame  00000c44  00000000  00000000  00012564  2**2
+                  CONTENTS, READONLY, DEBUGGING
+  7 .debug_pubnames 0000092f  00000000  00000000  000131a8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_aranges 000000a0  00000000  00000000  00013ad7  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .comment      0000005a  00000000  00000000  00013b77  2**0
+                  CONTENTS, READONLY
+ 10 .debug_str    0000006b  00000000  00000000  00013bd1  2**0
+                  CONTENTS, READONLY, DEBUGGING
+SYMBOL TABLE:
+00000000 l    d  .text	00000000 .text
+40000200 l    d  .data	00000000 .data
+40000200 l    d  .bss	00000000 .bss
+00000000 l    d  .debug_abbrev	00000000 .debug_abbrev
+00000000 l    d  .debug_info	00000000 .debug_info
+00000000 l    d  .debug_line	00000000 .debug_line
+00000000 l    d  .debug_frame	00000000 .debug_frame
+00000000 l    d  .debug_pubnames	00000000 .debug_pubnames
+00000000 l    d  .debug_aranges	00000000 .debug_aranges
+00000000 l    d  .comment	00000000 .comment
+00000000 l    d  .debug_str	00000000 .debug_str
+00000000 l    d  *ABS*	00000000 .shstrtab
+00000000 l    d  *ABS*	00000000 .symtab
+00000000 l    d  *ABS*	00000000 .strtab
+00000004 l       *ABS*	00000000 UND_STACK_SIZE
+00000004 l       *ABS*	00000000 ABT_STACK_SIZE
+00000004 l       *ABS*	00000000 FIQ_STACK_SIZE
+00000004 l       *ABS*	00000000 IRQ_STACK_SIZE
+00000004 l       *ABS*	00000000 SVC_STACK_SIZE
+00000010 l       *ABS*	00000000 MODE_USR
+00000011 l       *ABS*	00000000 MODE_FIQ
+00000012 l       *ABS*	00000000 MODE_IRQ
+00000013 l       *ABS*	00000000 MODE_SVC
+00000017 l       *ABS*	00000000 MODE_ABT
+0000001b l       *ABS*	00000000 MODE_UND
+0000001f l       *ABS*	00000000 MODE_SYS
+00000080 l       *ABS*	00000000 I_BIT
+00000040 l       *ABS*	00000000 F_BIT
+00000000 l       .text	00000000 _vectors
+00000020 l       .text	00000000 Reset_Addr
+00000024 l       .text	00000000 Undef_Addr
+00000028 l       .text	00000000 SWI_Addr
+0000002c l       .text	00000000 PAbt_Addr
+00000030 l       .text	00000000 DAbt_Addr
+00000038 l       .text	00000000 FIQ_Addr
+00000034 l       .text	00000000 IRQ_Addr
+00000000 l    df *ABS*	00000000 maintutorial1remote.c
+00000000 l    df *ABS*	00000000 delays.c
+00000000 l    df *ABS*	00000000 spi1.c
+00000000 l    df *ABS*	00000000 nrf24l01.c
+00000000 l    df *ABS*	00000000 uart0.c
+000022c0 g     F .text	000000ac uart0_send
+00001cc8 g     F .text	00000030 nrf24l01_irq_clear_all
+000013fc g     F .text	00000030 nrf24l01_set_tx_addr
+00001624 g     F .text	00000030 nrf24l01_get_observe_tx
+00001190 g     F .text	0000004c nrf24l01_read_rx_payload
+00001c68 g     F .text	00000020 nrf24l01_irq_rx_dr_active
+00001304 g     F .text	00000050 nrf24l01_ce_pin_active
+000001a8 g     F .text	00000074 InitializeIO
+00000e60 g     F .text	00000040 nrf24l01_power_down_param
+000003b8 g     F .text	00000020 UNDEF_Routine
+000023d0 g     F .text	00000204 uart0_send_hex
+0000285c g       .text	00000000 _etext
+00002838 g     F .text	00000024 uart0_get_rx_data
+0000021c g     F .text	00000058 ToggleLED
+00001690 g     F .text	0000003c nrf24l01_clear_plos_cnt
+000019f4 g     F .text	000000a4 nrf24l01_rx_pipe_disable
+00001db0 g     F .text	00000030 nrf24l01_get_rx_pipe_from_status
+00002008 g     F .text	000000b8 uart0_open
+00001480 g     F .text	0000006c nrf24l01_set_rx_pw
+40000200 g       .bss	00000000 _bss_start
+000015b0 g     F .text	00000030 nrf24l01_get_rf_ch
+00001134 g     F .text	0000005c nrf24l01_write_tx_payload
+00000398 g     F .text	00000020 SWI_Routine
+0000102c g     F .text	00000060 nrf24l01_set_as_tx_param
+00001cf8 g     F .text	00000030 nrf24l01_irq_clear_rx_dr
+00001dfc g     F .text	000000ec nrf24l01_get_all_registers
+00000fb4 g     F .text	00000014 nrf24l01_rx_active_to_standby
+000003d8 g     F .text	000000a8 DelayUS
+00000000 g       .text	00000000 _startup
+00000634 g     F .text	00000054 spi1_read
+000018e4 g     F .text	00000078 nrf24l01_rx_pipe_enabled
+000005dc g     F .text	00000058 spi1_open
+40000200 g       *ABS*	00000000 _bss_end
+00000040 g       .text	00000000 Reset_Handler
+000012ac g     F .text	0000002c nrf24l01_clear_ce
+00001ca8 g     F .text	00000020 nrf24l01_irq_max_rt_active
+0000128c g     F .text	00000020 nrf24l01_transmit
+00000378 g     F .text	00000020 FIQ_Routine
+00001b7c g     F .text	00000034 nrf24l01_fifo_tx_empty
+000012d8 g     F .text	0000002c nrf24l01_set_ce
+000016fc g     F .text	00000034 nrf24l01_get_arc_cnt
+000016cc g     F .text	00000030 nrf24l01_clear_plos_cnt_param
+000011dc g     F .text	0000002c nrf24l01_flush_tx
+00000688 g     F .text	00000088 spi1_send_read_byte
+00001840 g     F .text	000000a4 nrf24l01_aa_disable
+00001654 g     F .text	0000003c nrf24l01_get_plos_cnt
+00000cb0 g     F .text	000000b4 nrf24l01_power_up
+000015e0 g     F .text	00000044 nrf24l01_set_rf_ch
+00001d58 g     F .text	00000030 nrf24l01_irq_clear_max_rt
+00001af8 g     F .text	0000001c nrf24l01_get_status
+00001380 g     F .text	0000002c nrf24l01_set_csn
+00000710 g     F .text	0000041c nrf24l01_initialize
+000025d4 g     F .text	000001cc uart0_send_uint
+0000280c g     F .text	0000002c uart0_rx_data_ready
+00000ea0 g     F .text	0000008c nrf24l01_set_as_rx
+00000c40 g     F .text	00000070 nrf24l01_initialize_debug_lite
+00001f5c g     F .text	000000ac nrf24l01_spi_send_read
+0000195c g     F .text	00000098 nrf24l01_rx_pipe_enable
+000020c0 g     F .text	00000200 uart0_printf
+00001730 g     F .text	00000078 nrf24l01_aa_enabled
+00001d28 g     F .text	00000030 nrf24l01_irq_clear_tx_ds
+000000d8 g     F .text	000000a4 main
+00000b2c g     F .text	00000114 nrf24l01_initialize_debug
+00001580 g     F .text	00000030 nrf24l01_set_config
+00000fc8 g     F .text	00000064 nrf24l01_set_as_tx
+40007edc g       *ABS*	00000000 _stack_end
+00000df8 g     F .text	00000068 nrf24l01_power_down
+00001550 g     F .text	00000030 nrf24l01_get_config
+000010e8 g     F .text	0000004c nrf24l01_read_register
+00000274 g     F .text	000000ac InitializePLL
+00001b14 g     F .text	00000034 nrf24l01_fifo_tx_reuse
+00001354 g     F .text	0000002c nrf24l01_clear_csn
+0000052c g     F .text	000000b0 DelayS
+00000358 g     F .text	00000020 IRQ_Routine
+00000320 g     F .text	00000038 Feed
+40000200 g       .data	00000000 _data
+00001d88 g     F .text	00000028 nrf24l01_get_rx_pipe
+00001be4 g     F .text	00000034 nrf24l01_fifo_rx_empty
+00001260 g     F .text	0000002c nrf24l01_nop
+00001b48 g     F .text	00000034 nrf24l01_fifo_tx_full
+00001c88 g     F .text	00000020 nrf24l01_irq_tx_ds_active
+00001ac8 g     F .text	00000030 nrf24l01_get_fifo_status
+40000200 g       .data	00000000 _edata
+00001de0 g     F .text	0000001c nrf24l01_clear_flush
+40000200 g       *ABS*	00000000 _end
+00001a98 g     F .text	00000030 nrf24l01_cd_active
+00001ee8 g     F .text	00000074 nrf24l01_execute_command
+0000236c g     F .text	00000064 uart0_send_string
+000014ec g     F .text	00000064 nrf24l01_get_rx_pw
+000027a0 g     F .text	0000004c uart0_send_int
+00001c18 g     F .text	00000050 nrf24l01_irq_pin_active
+00000f2c g     F .text	00000074 nrf24l01_set_as_rx_param
+0000017c g     F .text	0000002c Initialize
+0000142c g     F .text	00000054 nrf24l01_set_rx_addr
+00001208 g     F .text	0000002c nrf24l01_flush_rx
+00000fa0 g     F .text	00000014 nrf24l01_rx_standby_to_active
+00000480 g     F .text	000000ac DelayMS
+000027ec g     F .text	00000020 uart0_send_crlf
+00001bb0 g     F .text	00000034 nrf24l01_fifo_rx_full
+000017a8 g     F .text	00000098 nrf24l01_aa_enable
+00000d64 g     F .text	00000094 nrf24l01_power_up_param
+00001234 g     F .text	0000002c nrf24l01_reuse_tx_pl
+0000108c g     F .text	0000005c nrf24l01_write_register
+000013ac g     F .text	00000050 nrf24l01_csn_pin_active
+
+

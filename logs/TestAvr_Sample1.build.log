@@ -1,0 +1,10 @@
+17:14:12 **** Incremental Build of configuration Debug for project TestAvr_Sample1 ****
+make all 
+Building target: TestAvr_Sample1.elf
+Invoking: AVR C++ Linker
+avr-g++ -s -Os -o"TestAvr_Sample1.elf"  ./main.o   -lm -lEclipse_ArduinoCoreLib -lm -Wl,-Map,TestAvr_Sample1.map,--cref -mrelax -Wl,--gc-sections -L"/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug" -mmcu=atmega328p
+Finished building target: TestAvr_Sample1.elf
+ 
+
+17:14:12 Build Finished (took 224ms)
+

@@ -1,0 +1,1516 @@
+Archive member included because of file (symbol)
+
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                              ./src/main.o (_ZN8SPIClass5beginEv)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                              ./src/main.o (Serial)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                              ./src/main.o (attachInterrupt)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+                              ./src/main.o (_Z6randoml)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__cxa_pure_virtual)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                              ./src/main.o (delay)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                              ./src/main.o (pinMode)
+/Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o) (malloc)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__subsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o) (__addsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__ltsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__divsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__fixsfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__fixunssfsi)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__floatunsisf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_inf)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_nan)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscA)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_pscB)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o) (__fp_round)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_split3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o) (__fp_zero)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__gtsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__mulsf3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o) (__unordsf2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o) (__mulsi3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__divmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__udivmodsi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o) (__divmodsi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o) (__negsi2)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                              ./src/main.o (__tablejump2__)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                              ./src/main.o (__do_copy_data)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                              ./src/main.o (__do_clear_bss)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o) (__do_global_ctors)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o) (__muluhisi3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o) (__umulhisi3)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o) (random)
+/usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o) (__mulohisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__flp               0x2               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .stab          0x00000000     0x1728 ./src/main.o
+ .stabstr       0x00000000     0x1365 ./src/main.o
+ .text._Z8NRF_pingv
+                0x00000000       0x72 ./src/main.o
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .stab          0x00000000      0x798 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .stabstr       0x00000000     0x1168 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .stab          0x00000000      0xffc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .stabstr       0x00000000     0x1965 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._Z11serialEventv
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000       0x88 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000      0x10c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0xaa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x10 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .group         0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .stab          0x00000000     0x1308 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .stabstr       0x00000000     0x19a2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x4a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1d6 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .stab          0x00000000      0x7d4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .stabstr       0x00000000     0x1185 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .text.detachInterrupt
+                0x00000000       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .stab          0x00000000      0x528 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .stabstr       0x00000000      0xb15 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z10randomSeedj
+                0x00000000       0x10 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z6randoml
+                0x00000000       0x48 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z6randomll
+                0x00000000       0x38 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z3maplllll
+                0x00000000       0x8e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z8makeWordj
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text._Z8makeWordhh
+                0x00000000        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .stab          0x00000000      0x4c8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .stabstr       0x00000000      0xaf4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._Znwj    0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._Znaj    0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._ZdlPv   0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text._ZdaPv   0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_acquire
+                0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_release
+                0x00000000        0x8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .stab          0x00000000      0xa20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .stabstr       0x00000000     0x11af /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .text.millis   0x00000000       0x18 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .stab          0x00000000      0xb1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .stabstr       0x00000000     0x12ed /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .text          0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .bss           0x00000000        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .stab          0x00000000      0x8e8 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .stabstr       0x00000000      0xe87 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .text.avr-libc
+                0x00000000      0x24e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_heap_end
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_heap_start
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data.__malloc_margin
+                0x00000000        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ COMMON         0x00000000        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x00000000       0x65 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000       0x69 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00000000       0x78 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line    0x00000000       0x6a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .debug_line    0x00000000       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_line    0x00000000       0x58 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_line    0x00000000       0x5c /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x00000000       0x61 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000       0x5e /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_line    0x00000000       0x60 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x00000000       0x60 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00000000       0x6a /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x00000000       0x65 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+ .text.avr-libc
+                0x00000000       0xba /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+ .text          0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .debug_line    0x00000000       0x5c /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .debug_info    0x00000000       0xbe /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .debug_abbrev  0x00000000       0x14 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+LOAD ./src/main.o
+LOAD /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+START GROUP
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a
+LOAD /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1758
+ *(.vectors)
+ .vectors       0x00000000       0x68 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._Z15NRF_get_addresshh
+                0x00000068       0x30 ./src/main.o
+                0x00000098                . = ALIGN (0x2)
+                0x00000098                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000098        0x0 linker stubs
+ *(.trampolines*)
+                0x00000098                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000098       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00000098                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x000000ac       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000000ac                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x000000c0       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000000c0                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000d4        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000000d4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000de        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000000de                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000e8        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000000e8                port_to_mode_PGM
+                0x000000f2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000f2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000f2        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x000000f4                __ctors_end = .
+                0x000000f4                __dtors_start = .
+ *(.dtors)
+                0x000000f4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x000000f4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000f4        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000100       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                0x00000100                __do_copy_data
+ .init4         0x00000116       0x10 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                0x00000116                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000126       0x16 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                0x00000126                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000013c        0x6 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000142        0x2 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                0x00000142                __vector_20
+                0x00000142                __vector_24
+                0x00000142                __vector_12
+                0x00000142                __bad_interrupt
+                0x00000142                __vector_6
+                0x00000142                __vector_3
+                0x00000142                __vector_23
+                0x00000142                __vector_25
+                0x00000142                __vector_11
+                0x00000142                __vector_13
+                0x00000142                __vector_17
+                0x00000142                __vector_7
+                0x00000142                __vector_5
+                0x00000142                __vector_4
+                0x00000142                __vector_9
+                0x00000142                __vector_21
+                0x00000142                __vector_15
+                0x00000142                __vector_8
+                0x00000142                __vector_14
+                0x00000142                __vector_10
+                0x00000142                __vector_22
+                0x00000144                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN8SPIClass8transferEh
+                0x00000144        0xc ./src/main.o
+                0x00000144                _ZN8SPIClass8transferEh
+ .text._Z8NRF_Initv
+                0x00000150       0x5a ./src/main.o
+                0x00000150                _Z8NRF_Initv
+ .text._Z18NRF_set_RX_payloadhh
+                0x000001aa       0x68 ./src/main.o
+                0x000001aa                _Z18NRF_set_RX_payloadhh
+ .text._Z15NRF_get_addresshh
+                0x00000212      0x544 ./src/main.o
+                0x00000212                _Z15NRF_get_addresshh
+ .text._Z18NRFwrite_bit_writehhh
+                0x00000756       0x84 ./src/main.o
+                0x00000756                _Z18NRFwrite_bit_writehhh
+ .text._Z8transmithhh
+                0x000007da       0xaa ./src/main.o
+                0x000007da                _Z8transmithhh
+ .text._Z10NRFpinmodehh
+                0x00000884       0x62 ./src/main.o
+                0x00000884                _Z10NRFpinmodehh
+ .text._Z11NRFpinwritehh
+                0x000008e6       0x62 ./src/main.o
+                0x000008e6                _Z11NRFpinwritehh
+ .text._Z10NRFpinreadh
+                0x00000948       0x54 ./src/main.o
+                0x00000948                _Z10NRFpinreadh
+ .text.loop     0x0000099c       0x30 ./src/main.o
+                0x0000099c                loop
+ .text._Z8get_datav
+                0x000009cc      0x11a ./src/main.o
+                0x000009cc                _Z8get_datav
+ .text._Z19NRF_ClearInterruptsv
+                0x00000ae6       0x44 ./src/main.o
+                0x00000ae6                _Z19NRF_ClearInterruptsv
+ .text.setup    0x00000b2a       0xa4 ./src/main.o
+                0x00000b2a                setup
+ .text.startup.main
+                0x00000bce        0x8 ./src/main.o
+                0x00000bce                main
+ .text._ZN8SPIClass5beginEv
+                0x00000bd6       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000bd6                _ZN8SPIClass5beginEv
+ .text._ZN8SPIClass11setBitOrderEh
+                0x00000bfa       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000bfa                _ZN8SPIClass11setBitOrderEh
+ .text._ZN8SPIClass11setDataModeEh
+                0x00000c0c        0xa /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000c0c                _ZN8SPIClass11setDataModeEh
+ .text._ZN8SPIClass15setClockDividerEh
+                0x00000c16       0x1c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                0x00000c16                _ZN8SPIClass15setClockDividerEh
+ .text._ZN14HardwareSerial9availableEv
+                0x00000c32       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000c32                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x00000c56       0x32 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000c56                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000c88       0x40 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000c88                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000cc8       0x16 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000cc8                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x00000cde       0x7a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000cde                _ZN14HardwareSerial5writeEh
+ .text.__vector_18
+                0x00000d58       0x88 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000d58                __vector_18
+ .text.__vector_19
+                0x00000de0       0x8e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000de0                __vector_19
+ .text._ZN14HardwareSerial5beginEm
+                0x00000e6e       0xfe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00000e6e                _ZN14HardwareSerial5beginEm
+ .text.startup._GLOBAL__sub_I_rx_buffer
+                0x00000f6c       0xac /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .text._ZN5Print5writeEPKhj
+                0x00001018       0x50 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001018                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00001068       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001068                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00001094        0x2 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001094                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00001096        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001096                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x000010a4       0x24 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000010a4                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x000010c8       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000010c8                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x000010e8       0xae /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x000010e8                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x00001196       0x8e /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001196                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00001224        0xe /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001224                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00001232       0x2c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001232                _ZN5Print7printlnEii
+ .text._ZN5Print5printEmi
+                0x0000125e       0x18 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x0000125e                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00001276        0xc /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001276                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x00001282       0x2a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                0x00001282                _ZN5Print7printlnEhi
+ .text.attachInterrupt
+                0x000012ac       0x40 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                0x000012ac                attachInterrupt
+ .text.__vector_1
+                0x000012ec       0x5a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                0x000012ec                __vector_1
+ .text.__vector_2
+                0x00001346       0x5a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                0x00001346                __vector_2
+ .text.__vector_16
+                0x000013a0       0x94 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x000013a0                __vector_16
+ .text.micros   0x00001434       0x46 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00001434                micros
+ .text.delay    0x0000147a       0x48 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x0000147a                delay
+ .text.init     0x000014c2       0x76 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x000014c2                init
+ .text.turnOffPWM
+                0x00001538       0x52 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .text.pinMode  0x0000158a       0x72 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x0000158a                pinMode
+ .text.digitalWrite
+                0x000015fc       0x6a /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x000015fc                digitalWrite
+ .text.digitalRead
+                0x00001666       0x50 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                0x00001666                digitalRead
+ .text.libgcc.div
+                0x000016b6       0x26 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                0x000016b6                __divmodhi4
+                0x000016b6                _div
+ .text.libgcc.div
+                0x000016dc       0x44 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                0x000016dc                __udivmodsi4
+ .text.libgcc   0x00001720        0xc /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                0x00001720                __tablejump2__
+                0x00001724                __tablejump__
+ .text.libgcc.div
+                0x0000172c       0x28 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000172c                __udivmodhi4
+                0x00001754                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001754        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                0x00001754                exit
+                0x00001754                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001754        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001758                _etext = .
+
+.data           0x00800100      0x74a load address 0x00001758
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 ./src/main.o
+ .data          0x00800100       0x14 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .data          0x00800114       0x3c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .data          0x00800150       0x6c /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .data          0x008001bc        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .data          0x008001bc       0x18 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .data          0x008001d4       0x20 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .data          0x008001f4        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .data          0x008001f4        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .data          0x008001f4        0x0 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x008001f4        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x008001f4        0x4 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+ .data          0x008001f8        0x0 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x008001f8      0x642 ./src/main.o
+                                0x645 (size before relaxing)
+ .rodata._ZTV14HardwareSerial
+                0x0080083a       0x10 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x0080083a                _ZTV14HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x0080084a                . = ALIGN (0x2)
+                0x0080084a                _edata = .
+                0x0080084a                PROVIDE (__data_end, .)
+
+.bss            0x0080084a       0xbe
+                0x0080084a                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.data3     0x0080084a        0x1 ./src/main.o
+                0x0080084a                data3
+ .bss.data2     0x0080084b        0x1 ./src/main.o
+                0x0080084b                data2
+ .bss.data_in   0x0080084c        0x5 ./src/main.o
+                0x0080084c                data_in
+ .bss.Serial    0x00800851       0x22 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00800851                Serial
+ .bss.tx_buffer
+                0x00800873       0x44 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x00800873                tx_buffer
+ .bss.rx_buffer
+                0x008008b7       0x44 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                0x008008b7                rx_buffer
+ .bss.intFunc   0x008008fb        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .bss.timer0_fract
+                0x008008ff        0x1 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .bss.timer0_millis
+                0x00800900        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00800900                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800904        0x4 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                0x00800904                timer0_overflow_count
+ *(COMMON)
+                0x00800908                PROVIDE (__bss_end, .)
+                0x00001758                __data_load_start = LOADADDR (.data)
+                0x00001ea2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800908        0x0
+                0x00800908                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800908                PROVIDE (__noinit_end, .)
+                0x00800908                _end = .
+                0x00800908                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ./src/main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+ .comment       0x00000000       0x12 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+ .comment       0x00000000       0x12 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(RF24Kevin.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::available()                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::begin(unsigned long)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  ./src/main.o
+HardwareSerial::begin(unsigned long, unsigned char) /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::end()                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::flush()                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::operator bool()                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::peek()                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::read()                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+NRF_ClearInterrupts()                             ./src/main.o
+NRF_Init()                                        ./src/main.o
+NRF_get_address(unsigned char, unsigned char)     ./src/main.o
+NRF_ping()                                        ./src/main.o
+NRF_set_RX_payload(unsigned char, unsigned char)  ./src/main.o
+NRFpinmode(unsigned char, unsigned char)          ./src/main.o
+NRFpinread(unsigned char)                         ./src/main.o
+NRFpinwrite(unsigned char, unsigned char)         ./src/main.o
+NRFwrite_bit_write(unsigned char, unsigned char, unsigned char) ./src/main.o
+Print::print(Printable const&)                    /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(String const&)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(__FlashStringHelper const*)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(char const*)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::print(char)                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::print(double, int)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(int, int)                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::print(long, int)                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(unsigned char, int)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::print(unsigned int, int)                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::print(unsigned long, int)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::printFloat(double, unsigned char)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println()                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(Printable const&)                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(String const&)                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(__FlashStringHelper const*)        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(char const*)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::println(char)                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(double, int)                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(int, int)                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::println(long, int)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(unsigned char, int)                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  ./src/main.o
+Print::println(unsigned int, int)                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::println(unsigned long, int)                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::write(char const*)                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+Print::write(unsigned char const*, unsigned int)  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+SPI                                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+SPIClass::begin()                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+SPIClass::end()                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+SPIClass::setBitOrder(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+SPIClass::setClockDivider(unsigned char)          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+SPIClass::setDataMode(unsigned char)              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+SPIClass::transfer(unsigned char)                 ./src/main.o
+Serial                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  ./src/main.o
+__addsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__addsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__bad_interrupt                                   /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__bss_end                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__ctors_end                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__cxa_guard_abort                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_guard_acquire                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_guard_release                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+__cxa_pure_virtual                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__data_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__divmodsi4                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+__divsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__divsf3_pse                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__divsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+__do_clear_bss                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_clear_bss.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+__do_copy_data                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+__do_global_ctors                                 /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__eqsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fixsfsi                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__fixunssfsi                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__floatsisf                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__floatunsisf                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(floatsisf.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__flp                                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__fp_cmp                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__fp_inf                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_inf.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_nan                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_nan.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscA                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_pscB                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_round                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_round.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+__fp_split3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__fp_splitA                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_split3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+__fp_szero                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixsfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(divsf3x.o)
+__fp_zero                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fp_zero.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3x.o)
+__gesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+__gtsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(gesf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__heap_end                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__heap_start                                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__init                                            /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__ltsf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__malloc_heap_end                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__malloc_heap_start                               /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__malloc_margin                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+__mulohisi3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+__mulsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__mulsf3_pse                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+__mulsf3x                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(mulsf3.o)
+__mulshisi3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+__mulsi3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+__muluhisi3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulshisi3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_mulsi3.o)
+__negsi2                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_negsi2.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+__nesf2                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(cmpsf2.o)
+__stack                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(addsf3.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__tablejump2__                                    /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  ./src/main.o
+__tablejump__                                     /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_ctors.o)
+__udivmodhi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodsi4.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+__umulhisi3                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_umulhisi3.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_muluhisi3.o)
+__unordsf2                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libm.a(unordsf2.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+__vector_1                                        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+_div                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+attachInterrupt                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+                                                  ./src/main.o
+data2                                             ./src/main.o
+data3                                             ./src/main.o
+data_in                                           ./src/main.o
+delay                                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  ./src/main.o
+delayMicroseconds                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+detachInterrupt                                   /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WInterrupts.o)
+digitalRead                                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                                                  ./src/main.o
+digitalWrite                                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+digital_pin_to_bit_mask_PGM                       /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+exit                                              /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/avr5/libgcc.a(_exit.o)
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+free                                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+get_data()                                        ./src/main.o
+init                                              /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+                                                  ./src/main.o
+loop                                              ./src/main.o
+main                                              ./src/main.o
+                                                  /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm328p.o
+makeWord(unsigned char, unsigned char)            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+makeWord(unsigned int)                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+malloc                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(malloc.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+map(long, long, long, long, long)                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+micros                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+millis                                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+operator delete(void*)                            /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator delete[](void*)                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator new(unsigned int)                        /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+operator new[](unsigned int)                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(new.o)
+pinMode                                           /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(SPI.o)
+                                                  ./src/main.o
+port_to_input_PGM                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+port_to_mode_PGM                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+port_to_output_PGM                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring_digital.o)
+random                                            /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+random(long)                                      /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+                                                  ./src/main.o
+random(long, long)                                /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+randomSeed(unsigned int)                          /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+random_r                                          /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+rx_buffer                                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+serialEvent()                                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+serialEventRun()                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+setup                                             ./src/main.o
+srandom                                           /usr/local/CrossPack-AVR-20131216/lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/libc.a(random.o)
+                                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(WMath.o)
+timer0_millis                                     /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+timer0_overflow_count                             /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(wiring.o)
+transmit(unsigned char, unsigned char, unsigned char) ./src/main.o
+tx_buffer                                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+vtable for HardwareSerial                         /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)
+vtable for Print                                  /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(Print.o)
+vtable for Stream                                 /Users/banerjees/workspace/avr/Eclipse_ArduinoCoreLib/Debug/libEclipse_ArduinoCoreLib.a(HardwareSerial.o)

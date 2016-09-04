@@ -1,0 +1,18 @@
+
+/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/tools/sdk
+/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/cores/esp8266
+/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/variants/nodemcu
+/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/bootloaders/eboot
+/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/tools/xtensa-lx106-elf/bin
+
+//Linker (generates ELF)
+#export ESP_ARDUINO_LIB = /media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/arduino.ar
+xtensa-lx106-elf-g++ -g -Wall -Os -nostdlib -Wl,--no-check-sections -u call_user_start -Wl,-static "-L/home/sujeet/.arduino15/packages/esp8266/hardware/esp8266/2.2.0/tools/sdk/lib" "-L/home/sujeet/.arduino15/packages/esp8266/hardware/esp8266/2.2.0/tools/sdk/ld" "-Teagle.flash.4m.ld" -Wl,--gc-sections -Wl,-wrap,system_restart_local -Wl,-wrap,register_chipv6_phy  -o First_WifiServer.ino.elf -Wl,--start-group "/tmp/buildd3455506c18fb168a4191e7bbdc81c17.tmp/sketch/First_WifiServer.ino.cpp.o" /tmp/buildd3455506c18fb168a4191e7bbdc81c17.tmp/libraries/ESP8266WiFi/*.o $ESP_ARDUINO_LIB -lm -lgcc -lhal -lphy -lpp -lnet80211 -lwpa -lcrypto -lmain -lwps -laxtls -lsmartconfig -lmesh -lwpa2 -llwip -Wl,--end-group
+
+// ELF to BIN
+#export ESP_ARDUINO_BOOT_ELF=/media/sujeet/devmain_74GB/dev/tools/arduino-1.6.7/hardware/esp8266com/esp8266/bootloaders/eboot/eboot.elf
+esptool -eo $ESP_ARDUINO_BOOT_ELF -bo First_WifiServer.ino.bin -bm dio -bf 40 -bz 4M -bs .text -bp 4096 -ec -eo First_WifiServer.ino.elf -bs .irom0.text -bs .text -bs .data -bs .rodata -bc -ec
+
+// Burn flash
+esptool -vv -cd nodemcu -cb 115200 -cp /dev/ttyUSB0 -ca 0x00000 -cf First_WifiServer.ino.bin 
+
